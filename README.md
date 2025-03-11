@@ -1,4 +1,5 @@
 # ClinomeX
+
 # Medical Risk Assessment Platform
 
 A comprehensive web application for analyzing patient data to assess cancer and diabetes risk based on genetic markers and personal health metrics.
@@ -30,23 +31,27 @@ This application provides a user-friendly interface for healthcare professionals
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/medical-risk-assessment.git
 cd medical-risk-assessment
 ```
 
 2. Create a virtual environment and activate it:
+
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 3. Install the required packages:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 4. Create a `.env` file with your Hugging Face token:
+
 ```
 HUGGINGFACE_TOKEN=your_huggingface_token_here
 ```
@@ -54,6 +59,7 @@ HUGGINGFACE_TOKEN=your_huggingface_token_here
 ## Usage
 
 1. Run the Streamlit application:
+
 ```bash
 streamlit run main.py
 ```

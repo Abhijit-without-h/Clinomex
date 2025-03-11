@@ -4,7 +4,7 @@
 
 A comprehensive web application for analyzing patient data to assess cancer and diabetes risk based on genetic markers and personal health metrics.
 
-![Medical Risk Assessment Platform](https://via.placeholder.com/800x400?text=Medical+Risk+Assessment+Platform)
+![Medical Risk Assessment Platform]
 
 ## Overview
 
